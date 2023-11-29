@@ -63,22 +63,22 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='manufaturing_totals_2000_to_2016' name='textscan.1t4jdl117p9w0y1bebowa0gqkfr5'>
-            <connection class='textscan' directory='/Users/yi-chuenwang/Desktop/CSE-6242/Project/fatories' filename='manufaturing_totals_2000_to_2016.txt' password='' server='' />
+            <connection class='textscan' directory='./fatories' filename='manufaturing_totals_2000_to_2016.txt' password='' server='' />
           </named-connection>
           <named-connection caption='death_data' name='textscan.1lvokij0oy95vv14nmu7612j324v'>
-            <connection class='textscan' directory='/Users/yi-chuenwang/Desktop/CSE-6242/Project' filename='df2.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='df2.csv' password='' server='' />
           </named-connection>
           <named-connection caption='df2' name='textscan.19co0380tciikq151aoqu1tb0j1i'>
-            <connection class='textscan' directory='/Users/yi-chuenwang/Desktop/CSE-6242/Project' filename='df1.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='df1.csv' password='' server='' />
           </named-connection>
           <named-connection caption='manufaturing_totals_2000_to_2016_restructure' name='textscan.1ozb4fd0edcv5s165p4d90xu6mb2'>
-            <connection class='textscan' directory='/Users/yi-chuenwang/Desktop/CSE-6242/Project' filename='manufaturing_totals_2000_to_2016_restructure.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='manufaturing_totals_2000_to_2016_restructure.csv' password='' server='' />
           </named-connection>
           <named-connection caption='filter' name='textscan.068qc1w1fw6bnz1fdzog7040ydt0'>
-            <connection class='textscan' directory='/Users/yi-chuenwang/Desktop/CSE-6242/Project' filename='filter.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='filter.csv' password='' server='' />
           </named-connection>
           <named-connection caption='df3' name='textscan.1pwwj460zwdna115j9fxq1pr81p9'>
-            <connection class='textscan' directory='/Users/yi-chuenwang/Desktop/CSE-6242/Project' filename='df3.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='df3.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1pwwj460zwdna115j9fxq1pr81p9' name='df3.csv' table='[df3#csv]' type='table'>
