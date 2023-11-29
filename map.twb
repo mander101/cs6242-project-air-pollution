@@ -1501,6 +1501,13 @@
           <style-rule element='map'>
             <format attr='washout' value='0.0' />
           </style-rule>
+          <style-rule element='quick-filter'>
+            <format attr='title' field='[federated.0d6x5161bfkpcv1gpey8j128cq0o].[Year (Df3.Csv) (group)]' value='Year'>
+              <formatted-text>
+                <run>Year</run>
+              </formatted-text>
+            </format>
+          </style-rule>
         </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
@@ -1660,8 +1667,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='17' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='16' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='18' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='23000' id='13' mode='checkdropdown' name='Death rate vs. Pollutant sheet' param='[federated.0d6x5161bfkpcv1gpey8j128cq0o].[Year (Df3.Csv) (group)]' type-v2='filter' values='database' w='16000' x='83200' y='38500'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1722,7 +1729,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='30'>
-    <window class='worksheet' maximized='true' name='Death rate vs. Pollutant sheet'>
+    <window class='worksheet' name='Death rate vs. Pollutant sheet'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1764,7 +1771,7 @@
       </viewpoint>
       <simple-id uuid='{CFDB8CF1-6804-4690-8FF0-AC62B8D3DFFB}' />
     </window>
-    <window class='dashboard' name='Death rate vs. Pollutant Dashboard'>
+    <window class='dashboard' maximized='true' name='Death rate vs. Pollutant Dashboard'>
       <viewpoints>
         <viewpoint name='Death rate vs. Pollutant sheet'>
           <zoom type='entire-view' />
@@ -1775,7 +1782,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='13' />
       <simple-id uuid='{DB5B0244-30B7-42CB-BA58-9DFCC3AA362F}' />
     </window>
     <window class='worksheet' name='Sheet 5'>
