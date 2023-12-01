@@ -1,0 +1,1317 @@
+State,County,year,Factors,value
+California,Los Angeles,2010,resp_Crude_Rate,53.39862434633025
+California,Orange,2010,resp_Crude_Rate,53.41780965719586
+California,San Diego,2010,resp_Crude_Rate,52.821798635549946
+California,Santa Clara,2010,resp_Crude_Rate,42.26438308032702
+California,Alameda,2010,resp_Crude_Rate,54.16246488213043
+California,San Bernardino,2010,resp_Crude_Rate,55.620795888384976
+California,Riverside,2010,resp_Crude_Rate,58.411401686395166
+California,Sacramento,2010,resp_Crude_Rate,79.15206500195943
+California,Fresno,2010,resp_Crude_Rate,62.87280348218604
+California,Contra Costa,2010,resp_Crude_Rate,63.48752412954887
+California,Santa Barbara,2010,resp_Crude_Rate,55.67416459264676
+California,Solano,2010,resp_Crude_Rate,72.09491367964698
+California,Humboldt,2010,resp_Crude_Rate,94.33752033456392
+California,Imperial,2010,resp_Crude_Rate,38.38925559222589
+California,Los Angeles,2011,resp_Crude_Rate,56.37875846591528
+California,Orange,2011,resp_Crude_Rate,55.79779716583865
+California,San Diego,2011,resp_Crude_Rate,55.14708223537997
+California,Santa Clara,2011,resp_Crude_Rate,42.69477976333633
+California,Alameda,2011,resp_Crude_Rate,58.28909432585365
+California,San Bernardino,2011,resp_Crude_Rate,56.37571530021402
+California,Riverside,2011,resp_Crude_Rate,64.26235138492746
+California,Sacramento,2011,resp_Crude_Rate,74.98247389202245
+California,Fresno,2011,resp_Crude_Rate,63.26449022643372
+California,Contra Costa,2011,resp_Crude_Rate,62.18777142664187
+California,Santa Barbara,2011,resp_Crude_Rate,59.15520730144273
+California,Solano,2011,resp_Crude_Rate,70.11039986938337
+California,Humboldt,2011,resp_Crude_Rate,94.64445479618168
+California,Imperial,2011,resp_Crude_Rate,35.74934601394792
+California,Los Angeles,2012,resp_Crude_Rate,53.44824035231633
+California,Orange,2012,resp_Crude_Rate,53.38848306366261
+California,San Diego,2012,resp_Crude_Rate,53.30797013873588
+California,Santa Clara,2012,resp_Crude_Rate,44.3178530800636
+California,Alameda,2012,resp_Crude_Rate,55.02905096744415
+California,San Bernardino,2012,resp_Crude_Rate,59.69439358920726
+California,Riverside,2012,resp_Crude_Rate,60.531966043818784
+California,Sacramento,2012,resp_Crude_Rate,68.61355024336044
+California,Fresno,2012,resp_Crude_Rate,59.35507855570717
+California,Contra Costa,2012,resp_Crude_Rate,63.99305536233982
+California,Santa Barbara,2012,resp_Crude_Rate,57.356759041236494
+California,Solano,2012,resp_Crude_Rate,65.7329100387967
+California,Humboldt,2012,resp_Crude_Rate,100.25025433860824
+California,Imperial,2012,resp_Crude_Rate,40.61211481947351
+California,Los Angeles,2013,resp_Crude_Rate,57.88065542029323
+California,Orange,2013,resp_Crude_Rate,58.92225603487272
+California,San Diego,2013,resp_Crude_Rate,55.337729487677024
+California,Santa Clara,2013,resp_Crude_Rate,43.1717641664716
+California,Alameda,2013,resp_Crude_Rate,60.269689468804586
+California,San Bernardino,2013,resp_Crude_Rate,64.1300417396052
+California,Riverside,2013,resp_Crude_Rate,64.23874469113908
+California,Sacramento,2013,resp_Crude_Rate,73.42350086265765
+California,Fresno,2013,resp_Crude_Rate,64.48149538354431
+California,Contra Costa,2013,resp_Crude_Rate,64.89767191027669
+California,Santa Barbara,2013,resp_Crude_Rate,68.15052776502982
+California,Solano,2013,resp_Crude_Rate,71.46698366873284
+California,Humboldt,2013,resp_Crude_Rate,81.00776634090148
+California,Imperial,2013,resp_Crude_Rate,44.58390238947143
+California,Los Angeles,2014,resp_Crude_Rate,53.56318881769095
+California,Orange,2014,resp_Crude_Rate,49.705880288587615
+California,San Diego,2014,resp_Crude_Rate,50.01755217168233
+California,Santa Clara,2014,resp_Crude_Rate,40.63870497993464
+California,Alameda,2014,resp_Crude_Rate,55.50486428967448
+California,San Bernardino,2014,resp_Crude_Rate,59.92587615477211
+California,Riverside,2014,resp_Crude_Rate,59.4629390020474
+California,Sacramento,2014,resp_Crude_Rate,70.76475319946663
+California,Fresno,2014,resp_Crude_Rate,62.5031796675703
+California,Contra Costa,2014,resp_Crude_Rate,62.57912562353696
+California,Santa Barbara,2014,resp_Crude_Rate,56.74686133109978
+California,Solano,2014,resp_Crude_Rate,72.85830340245948
+California,Humboldt,2014,resp_Crude_Rate,95.79326476812832
+California,Imperial,2014,resp_Crude_Rate,40.25359766529134
+California,Los Angeles,2015,resp_Crude_Rate,55.99146777845298
+California,Orange,2015,resp_Crude_Rate,55.66163050878279
+California,San Diego,2015,resp_Crude_Rate,52.9443856004644
+California,Santa Clara,2015,resp_Crude_Rate,39.84074173932847
+California,Alameda,2015,resp_Crude_Rate,59.4703282259897
+California,San Bernardino,2015,resp_Crude_Rate,60.87032312624703
+California,Riverside,2015,resp_Crude_Rate,66.08888125761828
+California,Sacramento,2015,resp_Crude_Rate,73.16369156593018
+California,Fresno,2015,resp_Crude_Rate,59.97140300165616
+California,Contra Costa,2015,resp_Crude_Rate,69.97670114161735
+California,Santa Barbara,2015,resp_Crude_Rate,63.08935029235154
+California,Solano,2015,resp_Crude_Rate,72.06651301687002
+California,Humboldt,2015,resp_Crude_Rate,75.3418080556643
+California,Imperial,2015,resp_Crude_Rate,64.51397617432121
+California,Santa Clara,2016,resp_Crude_Rate,37.98057936794898
+California,Alameda,2016,resp_Crude_Rate,52.55798371552172
+California,San Bernardino,2016,resp_Crude_Rate,63.9690929752684
+California,Sacramento,2016,resp_Crude_Rate,68.07707037491912
+California,Fresno,2016,resp_Crude_Rate,62.35234688723001
+California,Contra Costa,2016,resp_Crude_Rate,62.01949209207428
+California,Santa Barbara,2016,resp_Crude_Rate,63.42873792500617
+California,Solano,2016,resp_Crude_Rate,66.78676168257206
+California,Humboldt,2016,resp_Crude_Rate,68.05907234752573
+California,Imperial,2016,resp_Crude_Rate,57.49572928357004
+California,Los Angeles,2010,population_density,2066.065626893812
+California,Orange,2010,population_density,3175.651696891055
+California,San Diego,2010,population_density,683.9080231201611
+California,Santa Clara,2010,population_density,1365.7347857082627
+California,Alameda,2010,population_density,1838.9681708594112
+California,San Bernardino,2010,population_density,101.22204930870237
+California,Riverside,2010,population_density,299.79435390570126
+California,Sacramento,2010,population_density,1424.9866921106816
+California,Fresno,2010,population_density,154.61399261202843
+California,Contra Costa,2010,population_density,1307.717719215139
+California,Santa Barbara,2010,population_density,111.8586326644782
+California,Solano,2010,population_density,455.8019518112146
+California,Humboldt,2010,population_density,33.21957695458628
+California,Imperial,2010,population_density,38.93906400599722
+California,Los Angeles,2011,population_density,2080.76813009225
+California,Orange,2011,population_density,3221.7024823031725
+California,San Diego,2011,population_density,693.9344928765864
+California,Santa Clara,2011,population_density,1389.671375897833
+California,Alameda,2011,population_density,1865.4494313615664
+California,San Bernardino,2011,population_density,102.60146152541556
+California,Riverside,2011,population_density,306.16157868290657
+California,Sacramento,2011,population_density,1441.2715311605484
+California,Fresno,2011,population_density,156.2833484826077
+California,Contra Costa,2011,population_density,1329.035877234536
+California,Santa Barbara,2011,population_density,112.41357835738188
+California,Solano,2011,population_density,459.266692396758
+California,Humboldt,2011,population_density,33.37256817979924
+California,Imperial,2011,population_density,39.318129082925786
+California,Los Angeles,2012,population_density,2094.4622836846006
+California,Orange,2012,population_density,3254.4598115854883
+California,San Diego,2012,population_density,702.9538745713578
+California,Santa Clara,2012,population_density,1409.693912750186
+California,Alameda,2012,population_density,1894.092004967976
+California,San Bernardino,2012,population_density,103.31277767913583
+California,Riverside,2012,population_density,310.10102946270507
+California,Sacramento,2012,population_density,1453.5589815698288
+California,Fresno,2012,population_density,157.33820325728786
+California,Contra Costa,2012,population_density,1344.139719265003
+California,Santa Barbara,2012,population_density,113.63799491233812
+California,Solano,2012,population_density,463.0104206869934
+California,Humboldt,2012,population_density,33.22944735621292
+California,Imperial,2012,population_density,39.55462642344626
+California,Los Angeles,2013,population_density,2107.483502794425
+California,Orange,2013,population_density,3283.6197529301307
+California,San Diego,2013,population_density,711.1082387669247
+California,Santa Clara,2013,population_density,1431.136884548458
+California,Alameda,2013,population_density,1925.365901176241
+California,San Bernardino,2013,population_density,103.8448473346036
+California,Riverside,2013,population_density,313.7337909940154
+California,Sacramento,2013,population_density,1466.4018480389695
+California,Fresno,2013,population_density,158.48777561570583
+California,Contra Costa,2013,population_density,1363.8210875364632
+California,Santa Barbara,2013,population_density,115.00015832972691
+California,Solano,2013,population_density,467.5216408446821
+California,Humboldt,2013,population_density,33.20279727182099
+California,Imperial,2013,population_density,39.533877128476064
+California,Los Angeles,2014,population_density,2118.252769173793
+California,Orange,2014,population_density,3306.6831239252674
+California,San Diego,2014,population_density,720.0427758334217
+California,Santa Clara,2014,population_density,1448.6627367710976
+California,Alameda,2014,population_density,1959.0239388257069
+California,San Bernardino,2014,population_density,104.73958776289528
+California,Riverside,2014,population_density,317.9785618738713
+California,Sacramento,2014,population_density,1484.5949881986642
+California,Fresno,2014,population_density,160.04795700818724
+California,Contra Costa,2014,population_density,1382.4777481363285
+California,Santa Barbara,2014,population_density,116.25439364992242
+California,Solano,2014,population_density,473.7288415945305
+California,Humboldt,2014,population_density,33.22994087629426
+California,Imperial,2014,population_density,39.90691821654232
+California,Los Angeles,2015,population_density,2127.856499562319
+California,Orange,2015,population_density,3330.034496945913
+California,San Diego,2015,population_density,726.9781613462014
+California,Santa Clara,2015,population_density,1464.2093320966171
+California,Alameda,2015,population_density,1988.099992694153
+California,San Bernardino,2015,population_density,105.5656932945198
+California,Riverside,2015,population_density,322.1458389525467
+California,Sacramento,2015,population_density,1503.1828453773917
+California,Fresno,2015,population_density,161.54000820885724
+California,Contra Costa,2015,population_density,1400.2231419382183
+California,Santa Barbara,2015,population_density,117.11517959868692
+California,Solano,2015,population_density,478.9336715002481
+California,Humboldt,2015,population_density,33.40711458549249
+California,Imperial,2015,population_density,40.11664227323028
+California,Santa Clara,2016,population_density,1471.3360367335365
+California,Alameda,2016,population_density,2006.3122519056085
+California,San Bernardino,2016,population_density,106.43859986800216
+California,Sacramento,2016,population_density,1521.0766835735449
+California,Fresno,2016,population_density,162.83365099727644
+California,Contra Costa,2016,population_density,1415.052731307188
+California,Santa Barbara,2016,population_density,117.73662377690286
+California,Solano,2016,population_density,485.42427082759
+California,Humboldt,2016,population_density,33.71877251685371
+California,Imperial,2016,population_density,40.35693249562703
+California,Los Angeles,2010,avg(NO2 Mean),20.44729551851863
+California,Orange,2010,avg(NO2 Mean),11.172932052197831
+California,San Diego,2010,avg(NO2 Mean),17.280307051519124
+California,Santa Clara,2010,avg(NO2 Mean),13.54535503086417
+California,Alameda,2010,avg(NO2 Mean),13.107570373368189
+California,San Bernardino,2010,avg(NO2 Mean),18.927191771165187
+California,Riverside,2010,avg(NO2 Mean),16.920116675090206
+California,Sacramento,2010,avg(NO2 Mean),8.378692592705146
+California,Fresno,2010,avg(NO2 Mean),12.916266709677414
+California,Contra Costa,2010,avg(NO2 Mean),7.608833458112407
+California,Santa Barbara,2010,avg(NO2 Mean),2.12437892102844
+California,Solano,2010,avg(NO2 Mean),9.26397542797206
+California,Humboldt,2010,avg(NO2 Mean),2.6348533177441573
+California,Imperial,2010,avg(NO2 Mean),13.87090537536654
+California,Los Angeles,2011,avg(NO2 Mean),19.956466322450293
+California,Orange,2011,avg(NO2 Mean),10.987575689855085
+California,San Diego,2011,avg(NO2 Mean),13.082048456221164
+California,Santa Clara,2011,avg(NO2 Mean),12.036352558823568
+California,Alameda,2011,avg(NO2 Mean),15.737148682191744
+California,San Bernardino,2011,avg(NO2 Mean),18.277943483284822
+California,Riverside,2011,avg(NO2 Mean),16.398749791900034
+California,Sacramento,2011,avg(NO2 Mean),8.990090577142848
+California,Fresno,2011,avg(NO2 Mean),10.065030991111156
+California,Contra Costa,2011,avg(NO2 Mean),8.515871270146537
+California,Santa Barbara,2011,avg(NO2 Mean),2.3397625274929816
+California,Solano,2011,avg(NO2 Mean),10.211051473972608
+California,Humboldt,2011,avg(NO2 Mean),2.6198949710467683
+California,Imperial,2011,avg(NO2 Mean),14.325115763473098
+California,Los Angeles,2012,avg(NO2 Mean),21.16900914918393
+California,Orange,2012,avg(NO2 Mean),9.54613346686749
+California,San Diego,2012,avg(NO2 Mean),12.28925044195807
+California,Santa Clara,2012,avg(NO2 Mean),10.868746103305735
+California,Alameda,2012,avg(NO2 Mean),14.879765326760568
+California,San Bernardino,2012,avg(NO2 Mean),17.870175726198678
+California,Riverside,2012,avg(NO2 Mean),15.974102227757998
+California,Sacramento,2012,avg(NO2 Mean),8.008199072268898
+California,Fresno,2012,avg(NO2 Mean),12.26515447761191
+California,Contra Costa,2012,avg(NO2 Mean),8.08348778082195
+California,Santa Barbara,2012,avg(NO2 Mean),1.856471474121982
+California,Solano,2012,avg(NO2 Mean),9.142772303278694
+California,Humboldt,2012,avg(NO2 Mean),1.668079993793631
+California,Imperial,2012,avg(NO2 Mean),13.98044998466259
+California,Los Angeles,2013,avg(NO2 Mean),18.76484220733789
+California,Orange,2013,avg(NO2 Mean),12.06329433873585
+California,San Diego,2013,avg(NO2 Mean),12.088949255813947
+California,Santa Clara,2013,avg(NO2 Mean),12.242864053645157
+California,Alameda,2013,avg(NO2 Mean),16.77293117307687
+California,San Bernardino,2013,avg(NO2 Mean),17.293137419378738
+California,Riverside,2013,avg(NO2 Mean),15.594644721792838
+California,Sacramento,2013,avg(NO2 Mean),8.234148091240888
+California,Fresno,2013,avg(NO2 Mean),13.120059830555563
+California,Contra Costa,2013,avg(NO2 Mean),9.125991097125834
+California,Santa Barbara,2013,avg(NO2 Mean),1.9819095146788883
+California,Solano,2013,avg(NO2 Mean),9.84290930410959
+California,Humboldt,2013,avg(NO2 Mean),1.896940733236158
+California,Imperial,2013,avg(NO2 Mean),12.788434213564187
+California,Los Angeles,2014,avg(NO2 Mean),19.447162473157807
+California,Orange,2014,avg(NO2 Mean),11.068672484507047
+California,San Diego,2014,avg(NO2 Mean),13.539796220720714
+California,Santa Clara,2014,avg(NO2 Mean),13.07441987123286
+California,Alameda,2014,avg(NO2 Mean),14.286363873972578
+California,San Bernardino,2014,avg(NO2 Mean),16.532656383285296
+California,Riverside,2014,avg(NO2 Mean),15.181102458563595
+California,Sacramento,2014,avg(NO2 Mean),6.358848287500003
+California,Fresno,2014,avg(NO2 Mean),12.2820821043956
+California,Contra Costa,2014,avg(NO2 Mean),7.325887059578379
+California,Santa Barbara,2014,avg(NO2 Mean),1.311855191176455
+California,Solano,2014,avg(NO2 Mean),8.207331180821901
+California,Humboldt,2014,avg(NO2 Mean),1.583622667839558
+California,Imperial,2014,avg(NO2 Mean),12.24288798273156
+California,Los Angeles,2015,avg(NO2 Mean),18.92123218205132
+California,Orange,2015,avg(NO2 Mean),11.617734663768116
+California,San Diego,2015,avg(NO2 Mean),10.771833545454587
+California,Santa Clara,2015,avg(NO2 Mean),12.783799367403324
+California,Alameda,2015,avg(NO2 Mean),13.987552335164924
+California,San Bernardino,2015,avg(NO2 Mean),14.700072510548514
+California,Riverside,2015,avg(NO2 Mean),14.37712467039116
+California,Sacramento,2015,avg(NO2 Mean),6.698132441091949
+California,Fresno,2015,avg(NO2 Mean),10.31866531700287
+California,Contra Costa,2015,avg(NO2 Mean),7.19815862775737
+California,Santa Barbara,2015,avg(NO2 Mean),1.6869657988774431
+California,Solano,2015,avg(NO2 Mean),8.255008865013737
+California,Humboldt,2015,avg(NO2 Mean),2.155433886671972
+California,Imperial,2015,avg(NO2 Mean),11.490442866666672
+California,Santa Clara,2016,avg(NO2 Mean),12.982396495867762
+California,Alameda,2016,avg(NO2 Mean),14.343573461538442
+California,San Bernardino,2016,avg(NO2 Mean),11.993263420454548
+California,Sacramento,2016,avg(NO2 Mean),9.12213207142857
+California,Fresno,2016,avg(NO2 Mean),15.338750482758616
+California,Contra Costa,2016,avg(NO2 Mean),6.973924296398887
+California,Santa Barbara,2016,avg(NO2 Mean),1.915113168269227
+California,Solano,2016,avg(NO2 Mean),8.404950016528941
+California,Humboldt,2016,avg(NO2 Mean),2.014554027472527
+California,Imperial,2016,avg(NO2 Mean),15.283268384615344
+California,Los Angeles,2010,avg(O3 Mean),0.022612035861258
+California,Orange,2010,avg(O3 Mean),0.0269701043956044
+California,San Diego,2010,avg(O3 Mean),0.025284785997358
+California,Santa Clara,2010,avg(O3 Mean),0.0199510164609053
+California,Alameda,2010,avg(O3 Mean),0.0185810992167101
+California,San Bernardino,2010,avg(O3 Mean),0.0287982640402348
+California,Riverside,2010,avg(O3 Mean),0.031032238267148
+California,Sacramento,2010,avg(O3 Mean),0.0251457370820668
+California,Fresno,2010,avg(O3 Mean),0.0289471075268817
+California,Contra Costa,2010,avg(O3 Mean),0.0239328006362673
+California,Santa Barbara,2010,avg(O3 Mean),0.0340792277318642
+California,Solano,2010,avg(O3 Mean),0.0230981188811188
+California,Humboldt,2010,avg(O3 Mean),0.0228440866574965
+California,Imperial,2010,avg(O3 Mean),0.0273100997067448
+California,Los Angeles,2011,avg(O3 Mean),0.0227780067317401
+California,Orange,2011,avg(O3 Mean),0.026524736231884
+California,San Diego,2011,avg(O3 Mean),0.0272791013824884
+California,Santa Clara,2011,avg(O3 Mean),0.0209221792717086
+California,Alameda,2011,avg(O3 Mean),0.0175916684931506
+California,San Bernardino,2011,avg(O3 Mean),0.0289229360465116
+California,Riverside,2011,avg(O3 Mean),0.0303645368375702
+California,Sacramento,2011,avg(O3 Mean),0.0247622114285714
+California,Fresno,2011,avg(O3 Mean),0.0330864480000001
+California,Contra Costa,2011,avg(O3 Mean),0.0227857994505495
+California,Santa Barbara,2011,avg(O3 Mean),0.033366626747437
+California,Solano,2011,avg(O3 Mean),0.0222906657534246
+California,Humboldt,2011,avg(O3 Mean),0.0221151759465478
+California,Imperial,2011,avg(O3 Mean),0.0263582544910179
+California,Los Angeles,2012,avg(O3 Mean),0.0217190167832169
+California,Orange,2012,avg(O3 Mean),0.0279154457831325
+California,San Diego,2012,avg(O3 Mean),0.0271500573426572
+California,Santa Clara,2012,avg(O3 Mean),0.0218200523415978
+California,Alameda,2012,avg(O3 Mean),0.0192695126760563
+California,San Bernardino,2012,avg(O3 Mean),0.0329341028492007
+California,Riverside,2012,avg(O3 Mean),0.0274926476868328
+California,Sacramento,2012,avg(O3 Mean),0.0286593865546218
+California,Fresno,2012,avg(O3 Mean),0.0331231028192372
+California,Contra Costa,2012,avg(O3 Mean),0.0252503771689498
+California,Santa Barbara,2012,avg(O3 Mean),0.0347610009242142
+California,Solano,2012,avg(O3 Mean),0.0234654863387978
+California,Humboldt,2012,avg(O3 Mean),0.0248386470131886
+California,Imperial,2012,avg(O3 Mean),0.0272427791411043
+California,Los Angeles,2013,avg(O3 Mean),0.0250314633105802
+California,Orange,2013,avg(O3 Mean),0.0289466320907618
+California,San Diego,2013,avg(O3 Mean),0.0268621773255814
+California,Santa Clara,2013,avg(O3 Mean),0.020740484181568
+California,Alameda,2013,avg(O3 Mean),0.0174714120879121
+California,San Bernardino,2013,avg(O3 Mean),0.034371250739645
+California,Riverside,2013,avg(O3 Mean),0.0263931839258114
+California,Sacramento,2013,avg(O3 Mean),0.0258376386861314
+California,Fresno,2013,avg(O3 Mean),0.0279670388888888
+California,Contra Costa,2013,avg(O3 Mean),0.0221449127849355
+California,Santa Barbara,2013,avg(O3 Mean),0.0333074422018348
+California,Solano,2013,avg(O3 Mean),0.0223003561643835
+California,Humboldt,2013,avg(O3 Mean),0.0222451355685131
+California,Imperial,2013,avg(O3 Mean),0.0298950230880231
+California,Los Angeles,2014,avg(O3 Mean),0.0252868119373123
+California,Orange,2014,avg(O3 Mean),0.0299235464788732
+California,San Diego,2014,avg(O3 Mean),0.0264659774774774
+California,Santa Clara,2014,avg(O3 Mean),0.0204175342465752
+California,Alameda,2014,avg(O3 Mean),0.0201358246575342
+California,San Bernardino,2014,avg(O3 Mean),0.0327382665706052
+California,Riverside,2014,avg(O3 Mean),0.0293384889502761
+California,Sacramento,2014,avg(O3 Mean),0.0262905083333333
+California,Fresno,2014,avg(O3 Mean),0.0298218626373625
+California,Contra Costa,2014,avg(O3 Mean),0.0242125728689277
+California,Santa Barbara,2014,avg(O3 Mean),0.0335104246323531
+California,Solano,2014,avg(O3 Mean),0.0238231589041096
+California,Humboldt,2014,avg(O3 Mean),0.0220534989444054
+California,Imperial,2014,avg(O3 Mean),0.0281767990580847
+California,Los Angeles,2015,avg(O3 Mean),0.0258285316239318
+California,Orange,2015,avg(O3 Mean),0.0315613623188406
+California,San Diego,2015,avg(O3 Mean),0.0293622316715543
+California,Santa Clara,2015,avg(O3 Mean),0.0212829033149171
+California,Alameda,2015,avg(O3 Mean),0.0196783104395604
+California,San Bernardino,2015,avg(O3 Mean),0.0325759592123767
+California,Riverside,2015,avg(O3 Mean),0.0292247122905027
+California,Sacramento,2015,avg(O3 Mean),0.0245707025862069
+California,Fresno,2015,avg(O3 Mean),0.0294061757925071
+California,Contra Costa,2015,avg(O3 Mean),0.02499978125
+California,Santa Barbara,2015,avg(O3 Mean),0.033719006548176
+California,Solano,2015,avg(O3 Mean),0.0236265013774104
+California,Humboldt,2015,avg(O3 Mean),0.0237882138866718
+California,Imperial,2015,avg(O3 Mean),0.0295974972222221
+California,Santa Clara,2016,avg(O3 Mean),0.0211635041322313
+California,Alameda,2016,avg(O3 Mean),0.0206029743589743
+California,San Bernardino,2016,avg(O3 Mean),0.0267973522727272
+California,Sacramento,2016,avg(O3 Mean),0.0159241071428571
+California,Fresno,2016,avg(O3 Mean),0.0143763275862068
+California,Contra Costa,2016,avg(O3 Mean),0.0241712686980609
+California,Santa Barbara,2016,avg(O3 Mean),0.0346378197115384
+California,Solano,2016,avg(O3 Mean),0.0238909173553718
+California,Humboldt,2016,avg(O3 Mean),0.027172554945055
+California,Imperial,2016,avg(O3 Mean),0.0265153296703296
+California,Los Angeles,2010,avg(SO2 Mean),0.7809418915343903
+California,Orange,2010,avg(SO2 Mean),0.5648764587912081
+California,San Diego,2010,avg(SO2 Mean),0.5650787060766189
+California,Santa Clara,2010,avg(SO2 Mean),0.3903861862139927
+California,Alameda,2010,avg(SO2 Mean),0.808043203655351
+California,San Bernardino,2010,avg(SO2 Mean),0.8020965461022649
+California,Riverside,2010,avg(SO2 Mean),1.2604395794223833
+California,Sacramento,2010,avg(SO2 Mean),0.2352619658054723
+California,Fresno,2010,avg(SO2 Mean),0.7467599233870963
+California,Contra Costa,2010,avg(SO2 Mean),0.9850142958642648
+California,Santa Barbara,2010,avg(SO2 Mean),0.6643941418732776
+California,Solano,2010,avg(SO2 Mean),0.5491519055944061
+California,Humboldt,2010,avg(SO2 Mean),1.2851611980742803
+California,Imperial,2010,avg(SO2 Mean),0.4904531964809397
+California,Los Angeles,2011,avg(SO2 Mean),0.5349724826657671
+California,Orange,2011,avg(SO2 Mean),0.2796479797101447
+California,San Diego,2011,avg(SO2 Mean),0.4955426147465439
+California,Santa Clara,2011,avg(SO2 Mean),0.6110543949579821
+California,Alameda,2011,avg(SO2 Mean),1.0543877369863028
+California,San Bernardino,2011,avg(SO2 Mean),1.0335684000726724
+California,Riverside,2011,avg(SO2 Mean),0.3017277944851366
+California,Sacramento,2011,avg(SO2 Mean),0.2862484100000003
+California,Fresno,2011,avg(SO2 Mean),0.7824040231111091
+California,Contra Costa,2011,avg(SO2 Mean),1.5727975686813205
+California,Santa Barbara,2011,avg(SO2 Mean),0.696728887465052
+California,Solano,2011,avg(SO2 Mean),0.8463638068493154
+California,Humboldt,2011,avg(SO2 Mean),0.4182973619153687
+California,Imperial,2011,avg(SO2 Mean),0.4143639535928142
+California,Los Angeles,2012,avg(SO2 Mean),0.5202906629370633
+California,Orange,2012,avg(SO2 Mean),0.0704692409638555
+California,San Diego,2012,avg(SO2 Mean),0.148587377622377
+California,Santa Clara,2012,avg(SO2 Mean),0.6484455440771341
+California,Alameda,2012,avg(SO2 Mean),0.7067528267605617
+California,San Bernardino,2012,avg(SO2 Mean),0.7724560013898535
+California,Riverside,2012,avg(SO2 Mean),0.210976398576513
+California,Sacramento,2012,avg(SO2 Mean),0.5033680033613441
+California,Fresno,2012,avg(SO2 Mean),0.6447199278606975
+California,Contra Costa,2012,avg(SO2 Mean),0.9622410990867596
+California,Santa Barbara,2012,avg(SO2 Mean),1.1304053137707897
+California,Solano,2012,avg(SO2 Mean),0.6419857814207641
+California,Humboldt,2012,avg(SO2 Mean),-0.1407108700543057
+California,Imperial,2012,avg(SO2 Mean),0.4642419156441704
+California,Los Angeles,2013,avg(SO2 Mean),0.4263443740045495
+California,Orange,2013,avg(SO2 Mean),0.2222270340356561
+California,San Diego,2013,avg(SO2 Mean),0.1274259680232552
+California,Santa Clara,2013,avg(SO2 Mean),0.3404481189821177
+California,Alameda,2013,avg(SO2 Mean),0.5037992376373628
+California,San Bernardino,2013,avg(SO2 Mean),0.8098884911242614
+California,Riverside,2013,avg(SO2 Mean),0.1605589142194746
+California,Sacramento,2013,avg(SO2 Mean),0.580104000000001
+California,Fresno,2013,avg(SO2 Mean),0.5785904138888883
+California,Contra Costa,2013,avg(SO2 Mean),0.4702499028741325
+California,Santa Barbara,2013,avg(SO2 Mean),0.8848569376146815
+California,Solano,2013,avg(SO2 Mean),0.5927553739726027
+California,Humboldt,2013,avg(SO2 Mean),0.0850591406705538
+California,Imperial,2013,avg(SO2 Mean),0.673908623376626
+California,Los Angeles,2014,avg(SO2 Mean),0.4758175781927301
+California,Orange,2014,avg(SO2 Mean),0.3011387225352125
+California,San Diego,2014,avg(SO2 Mean),0.103239182432432
+California,Santa Clara,2014,avg(SO2 Mean),0.2354146547945204
+California,Alameda,2014,avg(SO2 Mean),0.4894526671232884
+California,San Bernardino,2014,avg(SO2 Mean),0.6952251556195992
+California,Riverside,2014,avg(SO2 Mean),0.2438253701657461
+California,Sacramento,2014,avg(SO2 Mean),0.7177100791666681
+California,Fresno,2014,avg(SO2 Mean),0.4810378887362628
+California,Contra Costa,2014,avg(SO2 Mean),0.7019523437213562
+California,Santa Barbara,2014,avg(SO2 Mean),0.4924893952205938
+California,Solano,2014,avg(SO2 Mean),0.637522361643835
+California,Humboldt,2014,avg(SO2 Mean),0.2812930693173828
+California,Imperial,2014,avg(SO2 Mean),0.8098751428571438
+California,Los Angeles,2015,avg(SO2 Mean),0.4478356188034186
+California,Orange,2015,avg(SO2 Mean),0.1316449347826085
+California,San Diego,2015,avg(SO2 Mean),0.1025187375366566
+California,Santa Clara,2015,avg(SO2 Mean),0.2897990455801102
+California,Alameda,2015,avg(SO2 Mean),0.7515272225274752
+California,San Bernardino,2015,avg(SO2 Mean),0.4643676638537272
+California,Riverside,2015,avg(SO2 Mean),0.2547468924581008
+California,Sacramento,2015,avg(SO2 Mean),1.7524448318965504
+California,Fresno,2015,avg(SO2 Mean),0.4978033357348707
+California,Contra Costa,2015,avg(SO2 Mean),0.7556326484374973
+California,Santa Barbara,2015,avg(SO2 Mean),0.1410318381665136
+California,Solano,2015,avg(SO2 Mean),0.6528854104683195
+California,Humboldt,2015,avg(SO2 Mean),0.0270785837988826
+California,Imperial,2015,avg(SO2 Mean),0.7247742472222224
+California,Santa Clara,2016,avg(SO2 Mean),0.244674219008264
+California,Alameda,2016,avg(SO2 Mean),0.933726965811966
+California,San Bernardino,2016,avg(SO2 Mean),0.2485591306818181
+California,Sacramento,2016,avg(SO2 Mean),2.5001772321428573
+California,Fresno,2016,avg(SO2 Mean),0.0692463189655172
+California,Contra Costa,2016,avg(SO2 Mean),0.939742663434904
+California,Santa Barbara,2016,avg(SO2 Mean),0.1908152235576921
+California,Solano,2016,avg(SO2 Mean),0.6115325330578508
+California,Humboldt,2016,avg(SO2 Mean),0.3646409780219787
+California,Imperial,2016,avg(SO2 Mean),0.7990270659340656
+California,Los Angeles,2010,NO2_tenyears,27.253925825846217
+California,Orange,2010,NO2_tenyears,15.441700463313897
+California,San Diego,2010,NO2_tenyears,19.52177906440705
+California,Santa Clara,2010,NO2_tenyears,13.408175269841278
+California,Alameda,2010,NO2_tenyears,18.1187440775719
+California,San Bernardino,2010,NO2_tenyears,20.25758801965544
+California,Riverside,2010,NO2_tenyears,20.630193658733948
+California,Sacramento,2010,NO2_tenyears,12.988722698517648
+California,Fresno,2010,NO2_tenyears,14.81871463415399
+California,Contra Costa,2010,NO2_tenyears,11.132765552545496
+California,Santa Barbara,2010,NO2_tenyears,4.513732888702149
+California,Solano,2010,NO2_tenyears,11.27444953835222
+California,Humboldt,2010,NO2_tenyears,3.808521264462932
+California,Imperial,2010,NO2_tenyears,14.483829580441045
+California,Los Angeles,2011,NO2_tenyears,25.816785554412338
+California,Orange,2011,NO2_tenyears,14.601984877276852
+California,San Diego,2011,NO2_tenyears,19.2119387295308
+California,Santa Clara,2011,NO2_tenyears,13.476765150352724
+California,Alameda,2011,NO2_tenyears,17.402862119828512
+California,San Bernardino,2011,NO2_tenyears,19.97047105912828
+California,Riverside,2011,NO2_tenyears,20.142844561362026
+California,Sacramento,2011,NO2_tenyears,12.36812062574933
+California,Fresno,2011,NO2_tenyears,14.438225049258673
+California,Contra Costa,2011,NO2_tenyears,10.562291738467383
+California,Santa Barbara,2011,NO2_tenyears,4.169706272171153
+California,Solano,2011,NO2_tenyears,10.86817645889667
+California,Humboldt,2011,NO2_tenyears,3.573787675119177
+California,Imperial,2011,NO2_tenyears,13.97158273938344
+California,Los Angeles,2012,NO2_tenyears,24.428701752523
+California,Orange,2012,NO2_tenyears,14.063964875999964
+California,San Diego,2012,NO2_tenyears,18.592144909462327
+California,Santa Clara,2012,NO2_tenyears,12.996627619843006
+California,Alameda,2012,NO2_tenyears,16.25138789260915
+California,San Bernardino,2012,NO2_tenyears,19.63637187341572
+California,Riverside,2012,NO2_tenyears,19.36189994904517
+California,Sacramento,2012,NO2_tenyears,11.814801940457665
+California,Fresno,2012,NO2_tenyears,13.709359372900757
+California,Contra Costa,2012,NO2_tenyears,10.083194670909949
+California,Santa Barbara,2012,NO2_tenyears,3.8760395846848255
+California,Solano,2012,NO2_tenyears,10.597058019664406
+California,Humboldt,2012,NO2_tenyears,3.4148055577737755
+California,Imperial,2012,NO2_tenyears,13.959625033486194
+California,Los Angeles,2013,NO2_tenyears,23.48722087517168
+California,Orange,2013,NO2_tenyears,13.25297358668109
+California,San Diego,2013,NO2_tenyears,17.797110832269258
+California,Santa Clara,2013,NO2_tenyears,12.46465724070869
+California,Alameda,2013,NO2_tenyears,15.675794570087008
+California,San Bernardino,2013,NO2_tenyears,19.20421993143504
+California,Riverside,2013,NO2_tenyears,18.66997613382705
+California,Sacramento,2013,NO2_tenyears,11.104957775105154
+California,Fresno,2013,NO2_tenyears,13.503044387859491
+California,Contra Costa,2013,NO2_tenyears,9.588319034003586
+California,Santa Barbara,2013,NO2_tenyears,3.5954545683237127
+California,Solano,2013,NO2_tenyears,10.214477308783488
+California,Humboldt,2013,NO2_tenyears,3.1652733343480404
+California,Imperial,2013,NO2_tenyears,14.007235842008315
+California,Los Angeles,2014,NO2_tenyears,22.348745770487263
+California,Orange,2014,NO2_tenyears,12.655346568996595
+California,San Diego,2014,NO2_tenyears,17.03356922394288
+California,Santa Clara,2014,NO2_tenyears,12.420298603295985
+California,Alameda,2014,NO2_tenyears,15.43932641594073
+California,San Bernardino,2014,NO2_tenyears,18.77343140708078
+California,Riverside,2014,NO2_tenyears,18.10639145365176
+California,Sacramento,2014,NO2_tenyears,10.43395866109348
+California,Fresno,2014,NO2_tenyears,13.295990868253034
+California,Contra Costa,2014,NO2_tenyears,9.339389298919784
+California,Santa Barbara,2014,NO2_tenyears,3.271254857362224
+California,Solano,2014,NO2_tenyears,10.00839569831047
+California,Humboldt,2014,NO2_tenyears,3.006731759209055
+California,Imperial,2014,NO2_tenyears,14.157074062808402
+California,Los Angeles,2015,NO2_tenyears,21.48356058145964
+California,Orange,2015,NO2_tenyears,12.18062278829279
+California,San Diego,2015,NO2_tenyears,16.410486605701294
+California,Santa Clara,2015,NO2_tenyears,12.529318814618795
+California,Alameda,2015,NO2_tenyears,15.295206098194711
+California,San Bernardino,2015,NO2_tenyears,18.31826556910077
+California,Riverside,2015,NO2_tenyears,17.88551569670874
+California,Sacramento,2015,NO2_tenyears,9.717545316530916
+California,Fresno,2015,NO2_tenyears,13.169252272770857
+California,Contra Costa,2015,NO2_tenyears,8.978240484836157
+California,Santa Barbara,2015,NO2_tenyears,2.907770775019236
+California,Solano,2015,NO2_tenyears,9.643856927048397
+California,Humboldt,2015,NO2_tenyears,2.848608526834666
+California,Imperial,2015,NO2_tenyears,13.8621518411362
+California,Santa Clara,2016,NO2_tenyears,12.565673179302298
+California,Alameda,2016,NO2_tenyears,15.149911235635848
+California,San Bernardino,2016,NO2_tenyears,17.872453849437388
+California,Sacramento,2016,NO2_tenyears,9.246495672020997
+California,Fresno,2016,NO2_tenyears,12.852520388796634
+California,Contra Costa,2016,NO2_tenyears,8.659720793734063
+California,Santa Barbara,2016,NO2_tenyears,2.636061039019773
+California,Solano,2016,NO2_tenyears,9.409482747942842
+California,Humboldt,2016,NO2_tenyears,2.779291062818397
+California,Imperial,2016,NO2_tenyears,13.526863199677866
+California,Los Angeles,2010,O3_tenyears,0.0218130051148512
+California,Orange,2010,O3_tenyears,0.0290024144935606
+California,San Diego,2010,O3_tenyears,0.0263662369476689
+California,Santa Clara,2010,O3_tenyears,0.0182589936507936
+California,Alameda,2010,O3_tenyears,0.0158101600622297
+California,San Bernardino,2010,O3_tenyears,0.0315594473126301
+California,Riverside,2010,O3_tenyears,0.026856530685768
+California,Sacramento,2010,O3_tenyears,0.0249971206265829
+California,Fresno,2010,O3_tenyears,0.0316278157129191
+California,Contra Costa,2010,O3_tenyears,0.0234140332633132
+California,Santa Barbara,2010,O3_tenyears,0.0332445698099646
+California,Solano,2010,O3_tenyears,0.0216481799817549
+California,Humboldt,2010,O3_tenyears,0.0206335667581304
+California,Imperial,2010,O3_tenyears,0.025424134486711
+California,Los Angeles,2011,O3_tenyears,0.0221239917724056
+California,Orange,2011,O3_tenyears,0.0291030074467823
+California,San Diego,2011,O3_tenyears,0.0265889952283057
+California,Santa Clara,2011,O3_tenyears,0.0191050050558494
+California,Alameda,2011,O3_tenyears,0.0162060085128698
+California,San Bernardino,2011,O3_tenyears,0.0312970783143548
+California,Riverside,2011,O3_tenyears,0.0276225893339113
+California,Sacramento,2011,O3_tenyears,0.0253561720046925
+California,Fresno,2011,O3_tenyears,0.0310916740757116
+California,Contra Costa,2011,O3_tenyears,0.0236492472135236
+California,Santa Barbara,2011,O3_tenyears,0.0334285923751066
+California,Solano,2011,O3_tenyears,0.0222538828039327
+California,Humboldt,2011,O3_tenyears,0.0210756707380036
+California,Imperial,2011,O3_tenyears,0.025475885671443
+California,Los Angeles,2012,O3_tenyears,0.0223613356460165
+California,Orange,2012,O3_tenyears,0.0288722073090378
+California,San Diego,2012,O3_tenyears,0.0266674977530846
+California,Santa Clara,2012,O3_tenyears,0.0197107297944692
+California,Alameda,2012,O3_tenyears,0.0174216559599433
+California,San Bernardino,2012,O3_tenyears,0.0310571180619642
+California,Riverside,2012,O3_tenyears,0.0282017413738327
+California,Sacramento,2012,O3_tenyears,0.0253158368975497
+California,Fresno,2012,O3_tenyears,0.0314241363964263
+California,Contra Costa,2012,O3_tenyears,0.0236348062128576
+California,Santa Barbara,2012,O3_tenyears,0.0336118815403894
+California,Solano,2012,O3_tenyears,0.0223800371230078
+California,Humboldt,2012,O3_tenyears,0.0212489216060943
+California,Imperial,2012,O3_tenyears,0.02526432653093
+California,Los Angeles,2013,O3_tenyears,0.0222987632470351
+California,Orange,2013,O3_tenyears,0.028785952027998
+California,San Diego,2013,O3_tenyears,0.0266769583021652
+California,Santa Clara,2013,O3_tenyears,0.0202380604312513
+California,Alameda,2013,O3_tenyears,0.0175083985459064
+California,San Bernardino,2013,O3_tenyears,0.0311629950135509
+California,Riverside,2013,O3_tenyears,0.0281268812185039
+California,Sacramento,2013,O3_tenyears,0.0251597044453434
+California,Fresno,2013,O3_tenyears,0.0316668458853993
+California,Contra Costa,2013,O3_tenyears,0.0237555249366176
+California,Santa Barbara,2013,O3_tenyears,0.0335569923214766
+California,Solano,2013,O3_tenyears,0.0225371657019425
+California,Humboldt,2013,O3_tenyears,0.0217617395213935
+California,Imperial,2013,O3_tenyears,0.0256378080763254
+California,Los Angeles,2014,O3_tenyears,0.022708946487184
+California,Orange,2014,O3_tenyears,0.0283352492314085
+California,San Diego,2014,O3_tenyears,0.0269581581027251
+California,Santa Clara,2014,O3_tenyears,0.0203385451813147
+California,Alameda,2014,O3_tenyears,0.0172171560950799
+California,San Bernardino,2014,O3_tenyears,0.0314013122223469
+California,Riverside,2014,O3_tenyears,0.0280250450404479
+California,Sacramento,2014,O3_tenyears,0.0252509847575512
+California,Fresno,2014,O3_tenyears,0.0311914122810868
+California,Contra Costa,2014,O3_tenyears,0.023560891780722
+California,Santa Barbara,2014,O3_tenyears,0.0335549157789482
+California,Solano,2014,O3_tenyears,0.0226206648542925
+California,Humboldt,2014,O3_tenyears,0.0218221640272835
+California,Imperial,2014,O3_tenyears,0.0267475935561986
+California,Los Angeles,2015,O3_tenyears,0.02279220238887
+California,Orange,2015,O3_tenyears,0.0282752432378964
+California,San Diego,2015,O3_tenyears,0.026955449761912
+California,Santa Clara,2015,O3_tenyears,0.0203517100255248
+California,Alameda,2015,O3_tenyears,0.0175819896653867
+California,San Bernardino,2015,O3_tenyears,0.0315771479703165
+California,Riverside,2015,O3_tenyears,0.0281236796275439
+California,Sacramento,2015,O3_tenyears,0.0254417278027225
+California,Fresno,2015,O3_tenyears,0.0310202185756212
+California,Contra Costa,2015,O3_tenyears,0.0237565659300889
+California,Santa Barbara,2015,O3_tenyears,0.0336015061937332
+California,Solano,2015,O3_tenyears,0.0229531542419712
+California,Humboldt,2015,O3_tenyears,0.0218478679069637
+California,Imperial,2015,O3_tenyears,0.0271147942270344
+California,Santa Clara,2016,O3_tenyears,0.0204847376382951
+California,Alameda,2016,O3_tenyears,0.0178149141958504
+California,San Bernardino,2016,O3_tenyears,0.0316440099136536
+California,Sacramento,2016,O3_tenyears,0.0257973035241657
+California,Fresno,2016,O3_tenyears,0.0308408804886086
+California,Contra Costa,2016,O3_tenyears,0.0240613697929063
+California,Santa Barbara,2016,O3_tenyears,0.0337066490768865
+California,Solano,2016,O3_tenyears,0.0232827907958972
+California,Humboldt,2016,O3_tenyears,0.0220419025049345
+California,Imperial,2016,O3_tenyears,0.0274682149719839
+California,Los Angeles,2010,SO2_tenyears,1.9238752107028567
+California,Orange,2010,SO2_tenyears,1.3008360580448686
+California,San Diego,2010,SO2_tenyears,3.2610866374482903
+California,Santa Clara,2010,SO2_tenyears,0.3369833523809523
+California,Alameda,2010,SO2_tenyears,1.4746959703473606
+California,San Bernardino,2010,SO2_tenyears,1.045360927425929
+California,Riverside,2010,SO2_tenyears,1.6210902693847855
+California,Sacramento,2010,SO2_tenyears,1.0174447735719407
+California,Fresno,2010,SO2_tenyears,1.1622273633061746
+California,Contra Costa,2010,SO2_tenyears,1.5259062836670083
+California,Santa Barbara,2010,SO2_tenyears,0.4134155991304114
+California,Solano,2010,SO2_tenyears,1.1218749785304585
+California,Humboldt,2010,SO2_tenyears,0.2039463704240816
+California,Imperial,2010,SO2_tenyears,0.6482680890316548
+California,Los Angeles,2011,SO2_tenyears,1.835791298784867
+California,Orange,2011,SO2_tenyears,1.1721827662190711
+California,San Diego,2011,SO2_tenyears,2.9889707733070088
+California,Santa Clara,2011,SO2_tenyears,0.3636847692974725
+California,Alameda,2011,SO2_tenyears,1.3794598608199309
+California,San Bernardino,2011,SO2_tenyears,0.982546713070638
+California,Riverside,2011,SO2_tenyears,1.6298129655710714
+California,Sacramento,2011,SO2_tenyears,0.7493016444243328
+California,Fresno,2011,SO2_tenyears,1.079133875322359
+California,Contra Costa,2011,SO2_tenyears,1.4530407852451368
+California,Santa Barbara,2011,SO2_tenyears,0.448565005065312
+California,Solano,2011,SO2_tenyears,1.026052035023965
+California,Humboldt,2011,SO2_tenyears,0.4201893359541214
+California,Imperial,2011,SO2_tenyears,0.477187159957704
+California,Los Angeles,2012,SO2_tenyears,1.6388113731573963
+California,Orange,2012,SO2_tenyears,1.060274488534109
+California,San Diego,2012,SO2_tenyears,2.7056675617704378
+California,Santa Clara,2012,SO2_tenyears,0.446141311184309
+California,Alameda,2012,SO2_tenyears,1.3010417615582337
+California,San Bernardino,2012,SO2_tenyears,0.927803951096306
+California,Riverside,2012,SO2_tenyears,1.5783735910469825
+California,Sacramento,2012,SO2_tenyears,0.5851003786534996
+California,Fresno,2012,SO2_tenyears,1.0296788999538171
+California,Contra Costa,2012,SO2_tenyears,1.432749770734647
+California,Santa Barbara,2012,SO2_tenyears,0.4834704549685467
+California,Solano,2012,SO2_tenyears,1.0163577859038828
+California,Humboldt,2012,SO2_tenyears,0.4198740069476626
+California,Imperial,2012,SO2_tenyears,0.4608384628546739
+California,Los Angeles,2013,SO2_tenyears,1.4662585245281146
+California,Orange,2013,SO2_tenyears,0.9124964523632654
+California,San Diego,2013,SO2_tenyears,2.3628281335604533
+California,Santa Clara,2013,SO2_tenyears,0.4967173694075153
+California,Alameda,2013,SO2_tenyears,1.1732314958285008
+California,San Bernardino,2013,SO2_tenyears,0.8798218247890102
+California,Riverside,2013,SO2_tenyears,1.5924494327283418
+California,Sacramento,2013,SO2_tenyears,0.5211456586565587
+California,Fresno,2013,SO2_tenyears,0.9746847610833717
+California,Contra Costa,2013,SO2_tenyears,1.3399917572165494
+California,Santa Barbara,2013,SO2_tenyears,0.5479813348212355
+California,Solano,2013,SO2_tenyears,0.9525791052547502
+California,Humboldt,2013,SO2_tenyears,0.3397904530902385
+California,Imperial,2013,SO2_tenyears,0.4821114365419959
+California,Los Angeles,2014,SO2_tenyears,1.3534572803467515
+California,Orange,2014,SO2_tenyears,0.8342266529339698
+California,San Diego,2014,SO2_tenyears,2.0020105057936144
+California,Santa Clara,2014,SO2_tenyears,0.4654635193224358
+California,Alameda,2014,SO2_tenyears,0.8762162224537661
+California,San Bernardino,2014,SO2_tenyears,0.8655098779744701
+California,Riverside,2014,SO2_tenyears,1.3969138641779903
+California,Sacramento,2014,SO2_tenyears,0.5040669600905929
+California,Fresno,2014,SO2_tenyears,0.8769790001270364
+California,Contra Costa,2014,SO2_tenyears,1.2200004506713829
+California,Santa Barbara,2014,SO2_tenyears,0.5791595748397658
+California,Solano,2014,SO2_tenyears,0.8984165340884747
+California,Humboldt,2014,SO2_tenyears,0.3079490390377779
+California,Imperial,2014,SO2_tenyears,0.5364245205764597
+California,Los Angeles,2015,SO2_tenyears,1.0893496988001805
+California,Orange,2015,SO2_tenyears,0.7093824184819514
+California,San Diego,2015,SO2_tenyears,1.6035934000977434
+California,Santa Clara,2015,SO2_tenyears,0.4271220419011166
+California,Alameda,2015,SO2_tenyears,0.8278707780374563
+California,San Bernardino,2015,SO2_tenyears,0.8481985504234821
+California,Riverside,2015,SO2_tenyears,1.0819221735118274
+California,Sacramento,2015,SO2_tenyears,0.5187479989003022
+California,Fresno,2015,SO2_tenyears,0.8274863612031897
+California,Contra Costa,2015,SO2_tenyears,1.1355896032881625
+California,Santa Barbara,2015,SO2_tenyears,0.5955632534783194
+California,Solano,2015,SO2_tenyears,0.835995549624443
+California,Humboldt,2015,SO2_tenyears,0.3049872646244007
+California,Imperial,2015,SO2_tenyears,0.5941073150534308
+California,Santa Clara,2016,SO2_tenyears,0.4075044709981156
+California,Alameda,2016,SO2_tenyears,0.8193881607585696
+California,San Bernardino,2016,SO2_tenyears,0.8105230733005675
+California,Sacramento,2016,SO2_tenyears,0.6259662410429161
+California,Fresno,2016,SO2_tenyears,0.790854913928932
+California,Contra Costa,2016,SO2_tenyears,1.0356167451051446
+California,Santa Barbara,2016,SO2_tenyears,0.5824010406993723
+California,Solano,2016,SO2_tenyears,0.7817074367695409
+California,Humboldt,2016,SO2_tenyears,0.2771963965418488
+California,Imperial,2016,SO2_tenyears,0.6458162921904258
+California,Los Angeles,2010,Autos,5810035.0
+California,Orange,2010,Autos,1939359.0
+California,San Diego,2010,Autos,1931471.0
+California,Santa Clara,2010,Autos,1208901.0
+California,Alameda,2010,Autos,952005.0
+California,San Bernardino,2010,Autos,1066756.0
+California,Riverside,2010,Autos,1134869.0
+California,Sacramento,2010,Autos,801270.0
+California,Fresno,2010,Autos,436656.0
+California,Contra Costa,2010,Autos,680242.0
+California,Santa Barbara,2010,Autos,245444.0
+California,Solano,2010,Autos,250033.0
+California,Humboldt,2010,Autos,76305.0
+California,Imperial,2010,Autos,92862.0
+California,Los Angeles,2011,Autos,5805760.0
+California,Orange,2011,Autos,1948063.0
+California,San Diego,2011,Autos,1932452.0
+California,Santa Clara,2011,Autos,1215418.0
+California,Alameda,2011,Autos,954158.0
+California,San Bernardino,2011,Autos,1074343.0
+California,Riverside,2011,Autos,1151450.0
+California,Sacramento,2011,Autos,801612.0
+California,Fresno,2011,Autos,437386.0
+California,Contra Costa,2011,Autos,682737.0
+California,Santa Barbara,2011,Autos,244837.0
+California,Solano,2011,Autos,249543.0
+California,Humboldt,2011,Autos,75058.0
+California,Imperial,2011,Autos,94778.0
+California,Los Angeles,2012,Autos,5904847.0
+California,Orange,2012,Autos,1982791.0
+California,San Diego,2012,Autos,1971635.0
+California,Santa Clara,2012,Autos,1237223.0
+California,Alameda,2012,Autos,974615.0
+California,San Bernardino,2012,Autos,1096412.0
+California,Riverside,2012,Autos,1184178.0
+California,Sacramento,2012,Autos,814459.0
+California,Fresno,2012,Autos,444768.0
+California,Contra Costa,2012,Autos,697279.0
+California,Santa Barbara,2012,Autos,248404.0
+California,Solano,2012,Autos,253989.0
+California,Humboldt,2012,Autos,74795.0
+California,Imperial,2012,Autos,97561.0
+California,Los Angeles,2013,Autos,6079057.0
+California,Orange,2013,Autos,2050972.0
+California,San Diego,2013,Autos,2040780.0
+California,Santa Clara,2013,Autos,1278949.0
+California,Alameda,2013,Autos,1010519.0
+California,San Bernardino,2013,Autos,1136591.0
+California,Riverside,2013,Autos,1236243.0
+California,Sacramento,2013,Autos,844837.0
+California,Fresno,2013,Autos,461132.0
+California,Contra Costa,2013,Autos,722220.0
+California,Santa Barbara,2013,Autos,257049.0
+California,Solano,2013,Autos,264108.0
+California,Humboldt,2013,Autos,76042.0
+California,Imperial,2013,Autos,102229.0
+California,Los Angeles,2014,Autos,6197573.0
+California,Orange,2014,Autos,2116173.0
+California,San Diego,2014,Autos,2093481.0
+California,Santa Clara,2014,Autos,1311687.0
+California,Alameda,2014,Autos,1044563.0
+California,San Bernardino,2014,Autos,1172703.0
+California,Riverside,2014,Autos,1279094.0
+California,Sacramento,2014,Autos,870642.0
+California,Fresno,2014,Autos,475004.0
+California,Contra Costa,2014,Autos,741024.0
+California,Santa Barbara,2014,Autos,263924.0
+California,Solano,2014,Autos,271387.0
+California,Humboldt,2014,Autos,77714.0
+California,Imperial,2014,Autos,106481.0
+California,Los Angeles,2015,Autos,6293639.0
+California,Orange,2015,Autos,2248999.0
+California,San Diego,2015,Autos,2152356.0
+California,Santa Clara,2015,Autos,1349898.0
+California,Alameda,2015,Autos,1082464.0
+California,San Bernardino,2015,Autos,1216312.0
+California,Riverside,2015,Autos,1329526.0
+California,Sacramento,2015,Autos,918131.0
+California,Fresno,2015,Autos,492048.0
+California,Contra Costa,2015,Autos,765068.0
+California,Santa Barbara,2015,Autos,269520.0
+California,Solano,2015,Autos,281622.0
+California,Humboldt,2015,Autos,79531.0
+California,Imperial,2015,Autos,113104.0
+California,Santa Clara,2016,Autos,1382217.0
+California,Alameda,2016,Autos,1065332.0
+California,San Bernardino,2016,Autos,1266253.0
+California,Sacramento,2016,Autos,951840.0
+California,Fresno,2016,Autos,511209.0
+California,Contra Costa,2016,Autos,835183.0
+California,Santa Barbara,2016,Autos,276471.0
+California,Solano,2016,Autos,291731.0
+California,Humboldt,2016,Autos,80805.0
+California,Imperial,2016,Autos,121565.0
+California,Los Angeles,2010,Motorcycles,146703.0
+California,Orange,2010,Motorcycles,58313.0
+California,San Diego,2010,Motorcycles,74818.0
+California,Santa Clara,2010,Motorcycles,37904.0
+California,Alameda,2010,Motorcycles,31421.0
+California,San Bernardino,2010,Motorcycles,42228.0
+California,Riverside,2010,Motorcycles,42851.0
+California,Sacramento,2010,Motorcycles,32610.0
+California,Fresno,2010,Motorcycles,19159.0
+California,Contra Costa,2010,Motorcycles,25252.0
+California,Santa Barbara,2010,Motorcycles,12238.0
+California,Solano,2010,Motorcycles,12304.0
+California,Humboldt,2010,Motorcycles,4930.0
+California,Imperial,2010,Motorcycles,2191.0
+California,Los Angeles,2011,Motorcycles,150143.0
+California,Orange,2011,Motorcycles,59563.0
+California,San Diego,2011,Motorcycles,78115.0
+California,Santa Clara,2011,Motorcycles,38035.0
+California,Alameda,2011,Motorcycles,31298.0
+California,San Bernardino,2011,Motorcycles,42153.0
+California,Riverside,2011,Motorcycles,43893.0
+California,Sacramento,2011,Motorcycles,32468.0
+California,Fresno,2011,Motorcycles,18918.0
+California,Contra Costa,2011,Motorcycles,25466.0
+California,Santa Barbara,2011,Motorcycles,12306.0
+California,Solano,2011,Motorcycles,12316.0
+California,Humboldt,2011,Motorcycles,5016.0
+California,Imperial,2011,Motorcycles,2410.0
+California,Los Angeles,2012,Motorcycles,154108.0
+California,Orange,2012,Motorcycles,61161.0
+California,San Diego,2012,Motorcycles,81178.0
+California,Santa Clara,2012,Motorcycles,38539.0
+California,Alameda,2012,Motorcycles,31583.0
+California,San Bernardino,2012,Motorcycles,42829.0
+California,Riverside,2012,Motorcycles,45490.0
+California,Sacramento,2012,Motorcycles,32597.0
+California,Fresno,2012,Motorcycles,18755.0
+California,Contra Costa,2012,Motorcycles,25744.0
+California,Santa Barbara,2012,Motorcycles,12362.0
+California,Solano,2012,Motorcycles,12450.0
+California,Humboldt,2012,Motorcycles,4961.0
+California,Imperial,2012,Motorcycles,2569.0
+California,Los Angeles,2013,Motorcycles,158402.0
+California,Orange,2013,Motorcycles,63105.0
+California,San Diego,2013,Motorcycles,85072.0
+California,Santa Clara,2013,Motorcycles,40026.0
+California,Alameda,2013,Motorcycles,32618.0
+California,San Bernardino,2013,Motorcycles,43842.0
+California,Riverside,2013,Motorcycles,47562.0
+California,Sacramento,2013,Motorcycles,33072.0
+California,Fresno,2013,Motorcycles,18999.0
+California,Contra Costa,2013,Motorcycles,26749.0
+California,Santa Barbara,2013,Motorcycles,12821.0
+California,Solano,2013,Motorcycles,12794.0
+California,Humboldt,2013,Motorcycles,4999.0
+California,Imperial,2013,Motorcycles,2722.0
+California,Los Angeles,2014,Motorcycles,159464.0
+California,Orange,2014,Motorcycles,63451.0
+California,San Diego,2014,Motorcycles,86896.0
+California,Santa Clara,2014,Motorcycles,40044.0
+California,Alameda,2014,Motorcycles,33470.0
+California,San Bernardino,2014,Motorcycles,44554.0
+California,Riverside,2014,Motorcycles,48381.0
+California,Sacramento,2014,Motorcycles,32704.0
+California,Fresno,2014,Motorcycles,18932.0
+California,Contra Costa,2014,Motorcycles,26797.0
+California,Santa Barbara,2014,Motorcycles,13101.0
+California,Solano,2014,Motorcycles,12906.0
+California,Humboldt,2014,Motorcycles,4972.0
+California,Imperial,2014,Motorcycles,2742.0
+California,Los Angeles,2015,Motorcycles,164152.0
+California,Orange,2015,Motorcycles,64700.0
+California,San Diego,2015,Motorcycles,89111.0
+California,Santa Clara,2015,Motorcycles,41219.0
+California,Alameda,2015,Motorcycles,34267.0
+California,San Bernardino,2015,Motorcycles,46096.0
+California,Riverside,2015,Motorcycles,50420.0
+California,Sacramento,2015,Motorcycles,33242.0
+California,Fresno,2015,Motorcycles,19200.0
+California,Contra Costa,2015,Motorcycles,27573.0
+California,Santa Barbara,2015,Motorcycles,13384.0
+California,Solano,2015,Motorcycles,13267.0
+California,Humboldt,2015,Motorcycles,4999.0
+California,Imperial,2015,Motorcycles,2932.0
+California,Santa Clara,2016,Motorcycles,41348.0
+California,Alameda,2016,Motorcycles,34185.0
+California,San Bernardino,2016,Motorcycles,46883.0
+California,Sacramento,2016,Motorcycles,33385.0
+California,Fresno,2016,Motorcycles,19127.0
+California,Contra Costa,2016,Motorcycles,27938.0
+California,Santa Barbara,2016,Motorcycles,13297.0
+California,Solano,2016,Motorcycles,13393.0
+California,Humboldt,2016,Motorcycles,5129.0
+California,Imperial,2016,Motorcycles,3075.0
+California,Los Angeles,2010,Trailers,343251.0
+California,Orange,2010,Trailers,124324.0
+California,San Diego,2010,Trailers,187612.0
+California,Santa Clara,2010,Trailers,69946.0
+California,Alameda,2010,Trailers,70428.0
+California,San Bernardino,2010,Trailers,180026.0
+California,Riverside,2010,Trailers,167504.0
+California,Sacramento,2010,Trailers,114511.0
+California,Fresno,2010,Trailers,94035.0
+California,Contra Costa,2010,Trailers,71245.0
+California,Santa Barbara,2010,Trailers,33244.0
+California,Solano,2010,Trailers,37290.0
+California,Humboldt,2010,Trailers,27108.0
+California,Imperial,2010,Trailers,21347.0
+California,Los Angeles,2011,Trailers,317743.0
+California,Orange,2011,Trailers,124077.0
+California,San Diego,2011,Trailers,183928.0
+California,Santa Clara,2011,Trailers,69052.0
+California,Alameda,2011,Trailers,62258.0
+California,San Bernardino,2011,Trailers,173772.0
+California,Riverside,2011,Trailers,165028.0
+California,Sacramento,2011,Trailers,107296.0
+California,Fresno,2011,Trailers,92506.0
+California,Contra Costa,2011,Trailers,64887.0
+California,Santa Barbara,2011,Trailers,33247.0
+California,Solano,2011,Trailers,34963.0
+California,Humboldt,2011,Trailers,27041.0
+California,Imperial,2011,Trailers,20798.0
+California,Los Angeles,2012,Trailers,283416.0
+California,Orange,2012,Trailers,110758.0
+California,San Diego,2012,Trailers,164359.0
+California,Santa Clara,2012,Trailers,60753.0
+California,Alameda,2012,Trailers,56595.0
+California,San Bernardino,2012,Trailers,157683.0
+California,Riverside,2012,Trailers,147257.0
+California,Sacramento,2012,Trailers,95266.0
+California,Fresno,2012,Trailers,86860.0
+California,Contra Costa,2012,Trailers,56886.0
+California,Santa Barbara,2012,Trailers,30258.0
+California,Solano,2012,Trailers,33254.0
+California,Humboldt,2012,Trailers,24939.0
+California,Imperial,2012,Trailers,20069.0
+California,Los Angeles,2013,Trailers,291933.0
+California,Orange,2013,Trailers,113885.0
+California,San Diego,2013,Trailers,170322.0
+California,Santa Clara,2013,Trailers,62987.0
+California,Alameda,2013,Trailers,58305.0
+California,San Bernardino,2013,Trailers,163150.0
+California,Riverside,2013,Trailers,153266.0
+California,Sacramento,2013,Trailers,99491.0
+California,Fresno,2013,Trailers,90682.0
+California,Contra Costa,2013,Trailers,59709.0
+California,Santa Barbara,2013,Trailers,31525.0
+California,Solano,2013,Trailers,34942.0
+California,Humboldt,2013,Trailers,26103.0
+California,Imperial,2013,Trailers,21246.0
+California,Los Angeles,2014,Trailers,295914.0
+California,Orange,2014,Trailers,115333.0
+California,San Diego,2014,Trailers,174684.0
+California,Santa Clara,2014,Trailers,64426.0
+California,Alameda,2014,Trailers,59239.0
+California,San Bernardino,2014,Trailers,167732.0
+California,Riverside,2014,Trailers,157420.0
+California,Sacramento,2014,Trailers,102378.0
+California,Fresno,2014,Trailers,92637.0
+California,Contra Costa,2014,Trailers,60951.0
+California,Santa Barbara,2014,Trailers,32263.0
+California,Solano,2014,Trailers,35933.0
+California,Humboldt,2014,Trailers,26742.0
+California,Imperial,2014,Trailers,21984.0
+California,Los Angeles,2015,Trailers,305743.0
+California,Orange,2015,Trailers,117730.0
+California,San Diego,2015,Trailers,179674.0
+California,Santa Clara,2015,Trailers,65839.0
+California,Alameda,2015,Trailers,60858.0
+California,San Bernardino,2015,Trailers,173064.0
+California,Riverside,2015,Trailers,162256.0
+California,Sacramento,2015,Trailers,105423.0
+California,Fresno,2015,Trailers,95440.0
+California,Contra Costa,2015,Trailers,62380.0
+California,Santa Barbara,2015,Trailers,32908.0
+California,Solano,2015,Trailers,36918.0
+California,Humboldt,2015,Trailers,27566.0
+California,Imperial,2015,Trailers,23151.0
+California,Santa Clara,2016,Trailers,66106.0
+California,Alameda,2016,Trailers,57523.0
+California,San Bernardino,2016,Trailers,176186.0
+California,Sacramento,2016,Trailers,106171.0
+California,Fresno,2016,Trailers,94709.0
+California,Contra Costa,2016,Trailers,63320.0
+California,Santa Barbara,2016,Trailers,33552.0
+California,Solano,2016,Trailers,37984.0
+California,Humboldt,2016,Trailers,28088.0
+California,Imperial,2016,Trailers,23139.0
+California,Los Angeles,2010,Trucks,1110636.0
+California,Orange,2010,Trucks,398478.0
+California,San Diego,2010,Trucks,475678.0
+California,Santa Clara,2010,Trucks,201244.0
+California,Alameda,2010,Trucks,184257.0
+California,San Bernardino,2010,Trucks,350598.0
+California,Riverside,2010,Trucks,362726.0
+California,Sacramento,2010,Trucks,208950.0
+California,Fresno,2010,Trucks,170678.0
+California,Contra Costa,2010,Trucks,144276.0
+California,Santa Barbara,2010,Trucks,77210.0
+California,Solano,2010,Trucks,70999.0
+California,Humboldt,2010,Trucks,40354.0
+California,Imperial,2010,Trucks,39382.0
+California,Los Angeles,2011,Trucks,1086927.0
+California,Orange,2011,Trucks,388252.0
+California,San Diego,2011,Trucks,459383.0
+California,Santa Clara,2011,Trucks,194685.0
+California,Alameda,2011,Trucks,177376.0
+California,San Bernardino,2011,Trucks,338309.0
+California,Riverside,2011,Trucks,351121.0
+California,Sacramento,2011,Trucks,200603.0
+California,Fresno,2011,Trucks,168205.0
+California,Contra Costa,2011,Trucks,140422.0
+California,Santa Barbara,2011,Trucks,75671.0
+California,Solano,2011,Trucks,68605.0
+California,Humboldt,2011,Trucks,39649.0
+California,Imperial,2011,Trucks,39336.0
+California,Los Angeles,2012,Trucks,1079883.0
+California,Orange,2012,Trucks,384954.0
+California,San Diego,2012,Trucks,455292.0
+California,Santa Clara,2012,Trucks,192836.0
+California,Alameda,2012,Trucks,175467.0
+California,San Bernardino,2012,Trucks,332313.0
+California,Riverside,2012,Trucks,347862.0
+California,Sacramento,2012,Trucks,199890.0
+California,Fresno,2012,Trucks,168499.0
+California,Contra Costa,2012,Trucks,139494.0
+California,Santa Barbara,2012,Trucks,75633.0
+California,Solano,2012,Trucks,68276.0
+California,Humboldt,2012,Trucks,39887.0
+California,Imperial,2012,Trucks,40001.0
+California,Los Angeles,2013,Trucks,1080125.0
+California,Orange,2013,Trucks,389358.0
+California,San Diego,2013,Trucks,456571.0
+California,Santa Clara,2013,Trucks,194011.0
+California,Alameda,2013,Trucks,176958.0
+California,San Bernardino,2013,Trucks,334383.0
+California,Riverside,2013,Trucks,351251.0
+California,Sacramento,2013,Trucks,202256.0
+California,Fresno,2013,Trucks,171241.0
+California,Contra Costa,2013,Trucks,141952.0
+California,Santa Barbara,2013,Trucks,76887.0
+California,Solano,2013,Trucks,68777.0
+California,Humboldt,2013,Trucks,40440.0
+California,Imperial,2013,Trucks,40223.0
+California,Los Angeles,2014,Trucks,1066409.0
+California,Orange,2014,Trucks,420660.0
+California,San Diego,2014,Trucks,452957.0
+California,Santa Clara,2014,Trucks,191892.0
+California,Alameda,2014,Trucks,176297.0
+California,San Bernardino,2014,Trucks,335200.0
+California,Riverside,2014,Trucks,351311.0
+California,Sacramento,2014,Trucks,202301.0
+California,Fresno,2014,Trucks,170735.0
+California,Contra Costa,2014,Trucks,142052.0
+California,Santa Barbara,2014,Trucks,77107.0
+California,Solano,2014,Trucks,68391.0
+California,Humboldt,2014,Trucks,40425.0
+California,Imperial,2014,Trucks,40318.0
+California,Los Angeles,2015,Trucks,1075340.0
+California,Orange,2015,Trucks,400421.0
+California,San Diego,2015,Trucks,460115.0
+California,Santa Clara,2015,Trucks,193802.0
+California,Alameda,2015,Trucks,178753.0
+California,San Bernardino,2015,Trucks,340884.0
+California,Riverside,2015,Trucks,359997.0
+California,Sacramento,2015,Trucks,217897.0
+California,Fresno,2015,Trucks,173784.0
+California,Contra Costa,2015,Trucks,144712.0
+California,Santa Barbara,2015,Trucks,78114.0
+California,Solano,2015,Trucks,69828.0
+California,Humboldt,2015,Trucks,41336.0
+California,Imperial,2015,Trucks,41485.0
+California,Santa Clara,2016,Trucks,197675.0
+California,Alameda,2016,Trucks,181484.0
+California,San Bernardino,2016,Trucks,352320.0
+California,Sacramento,2016,Trucks,221756.0
+California,Fresno,2016,Trucks,179820.0
+California,Contra Costa,2016,Trucks,151888.0
+California,Santa Barbara,2016,Trucks,80502.0
+California,Solano,2016,Trucks,72621.0
+California,Humboldt,2016,Trucks,42354.0
+California,Imperial,2016,Trucks,43795.0
+California,Los Angeles,2010,Total Vehicles,7410625.0
+California,Orange,2010,Total Vehicles,2520474.0
+California,San Diego,2010,Total Vehicles,2669579.0
+California,Santa Clara,2010,Total Vehicles,1517995.0
+California,Alameda,2010,Total Vehicles,1238111.0
+California,San Bernardino,2010,Total Vehicles,1639608.0
+California,Riverside,2010,Total Vehicles,1707950.0
+California,Sacramento,2010,Total Vehicles,1157341.0
+California,Fresno,2010,Total Vehicles,720528.0
+California,Contra Costa,2010,Total Vehicles,921015.0
+California,Santa Barbara,2010,Total Vehicles,368136.0
+California,Solano,2010,Total Vehicles,370626.0
+California,Humboldt,2010,Total Vehicles,148697.0
+California,Imperial,2010,Total Vehicles,155782.0
+California,Los Angeles,2011,Total Vehicles,7360573.0
+California,Orange,2011,Total Vehicles,2519955.0
+California,San Diego,2011,Total Vehicles,2653878.0
+California,Santa Clara,2011,Total Vehicles,1517190.0
+California,Alameda,2011,Total Vehicles,1225090.0
+California,San Bernardino,2011,Total Vehicles,1628577.0
+California,Riverside,2011,Total Vehicles,1711492.0
+California,Sacramento,2011,Total Vehicles,1141979.0
+California,Fresno,2011,Total Vehicles,717015.0
+California,Contra Costa,2011,Total Vehicles,913512.0
+California,Santa Barbara,2011,Total Vehicles,366061.0
+California,Solano,2011,Total Vehicles,365427.0
+California,Humboldt,2011,Total Vehicles,146764.0
+California,Imperial,2011,Total Vehicles,157322.0
+California,Los Angeles,2012,Total Vehicles,7422254.0
+California,Orange,2012,Total Vehicles,2539664.0
+California,San Diego,2012,Total Vehicles,2672464.0
+California,Santa Clara,2012,Total Vehicles,1529351.0
+California,Alameda,2012,Total Vehicles,1238260.0
+California,San Bernardino,2012,Total Vehicles,1629237.0
+California,Riverside,2012,Total Vehicles,1724787.0
+California,Sacramento,2012,Total Vehicles,1142212.0
+California,Fresno,2012,Total Vehicles,718882.0
+California,Contra Costa,2012,Total Vehicles,919403.0
+California,Santa Barbara,2012,Total Vehicles,366657.0
+California,Solano,2012,Total Vehicles,367969.0
+California,Humboldt,2012,Total Vehicles,144582.0
+California,Imperial,2012,Total Vehicles,160200.0
+California,Los Angeles,2013,Total Vehicles,7609517.0
+California,Orange,2013,Total Vehicles,2617320.0
+California,San Diego,2013,Total Vehicles,2752745.0
+California,Santa Clara,2013,Total Vehicles,1575973.0
+California,Alameda,2013,Total Vehicles,1278400.0
+California,San Bernardino,2013,Total Vehicles,1677966.0
+California,Riverside,2013,Total Vehicles,1788322.0
+California,Sacramento,2013,Total Vehicles,1179656.0
+California,Fresno,2013,Total Vehicles,742054.0
+California,Contra Costa,2013,Total Vehicles,950630.0
+California,Santa Barbara,2013,Total Vehicles,378282.0
+California,Solano,2013,Total Vehicles,380621.0
+California,Humboldt,2013,Total Vehicles,147584.0
+California,Imperial,2013,Total Vehicles,166420.0
+California,Los Angeles,2014,Total Vehicles,7719360.0
+California,Orange,2014,Total Vehicles,2715617.0
+California,San Diego,2014,Total Vehicles,2808018.0
+California,Santa Clara,2014,Total Vehicles,1608049.0
+California,Alameda,2014,Total Vehicles,1313569.0
+California,San Bernardino,2014,Total Vehicles,1720189.0
+California,Riverside,2014,Total Vehicles,1836206.0
+California,Sacramento,2014,Total Vehicles,1208025.0
+California,Fresno,2014,Total Vehicles,757308.0
+California,Contra Costa,2014,Total Vehicles,970824.0
+California,Santa Barbara,2014,Total Vehicles,386395.0
+California,Solano,2014,Total Vehicles,388617.0
+California,Humboldt,2014,Total Vehicles,149853.0
+California,Imperial,2014,Total Vehicles,171525.0
+California,Los Angeles,2015,Total Vehicles,7838874.0
+California,Orange,2015,Total Vehicles,2831850.0
+California,San Diego,2015,Total Vehicles,2881256.0
+California,Santa Clara,2015,Total Vehicles,1650758.0
+California,Alameda,2015,Total Vehicles,1356342.0
+California,San Bernardino,2015,Total Vehicles,1776356.0
+California,Riverside,2015,Total Vehicles,1902199.0
+California,Sacramento,2015,Total Vehicles,1274693.0
+California,Fresno,2015,Total Vehicles,780472.0
+California,Contra Costa,2015,Total Vehicles,999733.0
+California,Santa Barbara,2015,Total Vehicles,393926.0
+California,Solano,2015,Total Vehicles,401635.0
+California,Humboldt,2015,Total Vehicles,153432.0
+California,Imperial,2015,Total Vehicles,180672.0
+California,Santa Clara,2016,Total Vehicles,1687346.0
+California,Alameda,2016,Total Vehicles,1338524.0
+California,San Bernardino,2016,Total Vehicles,1841642.0
+California,Sacramento,2016,Total Vehicles,1313152.0
+California,Fresno,2016,Total Vehicles,804865.0
+California,Contra Costa,2016,Total Vehicles,1078329.0
+California,Santa Barbara,2016,Total Vehicles,403822.0
+California,Solano,2016,Total Vehicles,415729.0
+California,Humboldt,2016,Total Vehicles,156376.0
+California,Imperial,2016,Total Vehicles,191574.0
+California,Los Angeles,2010,Factory_num,25820.0
+California,Orange,2010,Factory_num,9520.0
+California,San Diego,2010,Factory_num,5694.0
+California,Santa Clara,2010,Factory_num,4676.0
+California,Alameda,2010,Factory_num,3662.0
+California,San Bernardino,2010,Factory_num,3610.0
+California,Riverside,2010,Factory_num,2774.0
+California,Sacramento,2010,Factory_num,1564.0
+California,Fresno,2010,Factory_num,1196.0
+California,Contra Costa,2010,Factory_num,1116.0
+California,Santa Barbara,2010,Factory_num,906.0
+California,Solano,2010,Factory_num,540.0
+California,Humboldt,2010,Factory_num,270.0
+California,Imperial,2010,Factory_num,110.0
+California,Los Angeles,2011,Factory_num,25548.0
+California,Orange,2011,Factory_num,9306.0
+California,San Diego,2011,Factory_num,5642.0
+California,Santa Clara,2011,Factory_num,4692.0
+California,Alameda,2011,Factory_num,3646.0
+California,San Bernardino,2011,Factory_num,3524.0
+California,Riverside,2011,Factory_num,2754.0
+California,Sacramento,2011,Factory_num,1528.0
+California,Fresno,2011,Factory_num,1178.0
+California,Contra Costa,2011,Factory_num,1100.0
+California,Santa Barbara,2011,Factory_num,886.0
+California,Solano,2011,Factory_num,512.0
+California,Humboldt,2011,Factory_num,274.0
+California,Imperial,2011,Factory_num,104.0
+California,Los Angeles,2012,Factory_num,63830.0
+California,Orange,2012,Factory_num,23605.0
+California,San Diego,2012,Factory_num,14490.0
+California,Santa Clara,2012,Factory_num,11735.0
+California,Alameda,2012,Factory_num,9265.0
+California,San Bernardino,2012,Factory_num,8995.0
+California,Riverside,2012,Factory_num,7300.0
+California,Sacramento,2012,Factory_num,3780.0
+California,Fresno,2012,Factory_num,2970.0
+California,Contra Costa,2012,Factory_num,2720.0
+California,Santa Barbara,2012,Factory_num,2265.0
+California,Solano,2012,Factory_num,1305.0
+California,Humboldt,2012,Factory_num,670.0
+California,Imperial,2012,Factory_num,250.0
+California,Los Angeles,2013,Factory_num,62290.0
+California,Orange,2013,Factory_num,23190.0
+California,San Diego,2013,Factory_num,14295.0
+California,Santa Clara,2013,Factory_num,11465.0
+California,Alameda,2013,Factory_num,9000.0
+California,San Bernardino,2013,Factory_num,8840.0
+California,Riverside,2013,Factory_num,7390.0
+California,Sacramento,2013,Factory_num,3700.0
+California,Fresno,2013,Factory_num,2920.0
+California,Contra Costa,2013,Factory_num,2685.0
+California,Santa Barbara,2013,Factory_num,2255.0
+California,Solano,2013,Factory_num,1260.0
+California,Humboldt,2013,Factory_num,640.0
+California,Imperial,2013,Factory_num,260.0
+California,Los Angeles,2014,Factory_num,62305.0
+California,Orange,2014,Factory_num,23225.0
+California,San Diego,2014,Factory_num,14300.0
+California,Santa Clara,2014,Factory_num,11385.0
+California,Alameda,2014,Factory_num,9010.0
+California,San Bernardino,2014,Factory_num,8900.0
+California,Riverside,2014,Factory_num,7460.0
+California,Sacramento,2014,Factory_num,3720.0
+California,Fresno,2014,Factory_num,2915.0
+California,Contra Costa,2014,Factory_num,2675.0
+California,Santa Barbara,2014,Factory_num,2330.0
+California,Solano,2014,Factory_num,1270.0
+California,Humboldt,2014,Factory_num,660.0
+California,Imperial,2014,Factory_num,265.0
+California,Los Angeles,2015,Factory_num,62100.0
+California,Orange,2015,Factory_num,23310.0
+California,San Diego,2015,Factory_num,14470.0
+California,Santa Clara,2015,Factory_num,11380.0
+California,Alameda,2015,Factory_num,9190.0
+California,San Bernardino,2015,Factory_num,8960.0
+California,Riverside,2015,Factory_num,7480.0
+California,Sacramento,2015,Factory_num,3750.0
+California,Fresno,2015,Factory_num,2965.0
+California,Contra Costa,2015,Factory_num,2715.0
+California,Santa Barbara,2015,Factory_num,2390.0
+California,Solano,2015,Factory_num,1250.0
+California,Humboldt,2015,Factory_num,605.0
+California,Imperial,2015,Factory_num,240.0
+California,Santa Clara,2016,Factory_num,11245.0
+California,Alameda,2016,Factory_num,9095.0
+California,San Bernardino,2016,Factory_num,8885.0
+California,Sacramento,2016,Factory_num,3865.0
+California,Fresno,2016,Factory_num,2910.0
+California,Contra Costa,2016,Factory_num,2710.0
+California,Santa Barbara,2016,Factory_num,2415.0
+California,Solano,2016,Factory_num,1240.0
+California,Humboldt,2016,Factory_num,640.0
+California,Imperial,2016,Factory_num,295.0
