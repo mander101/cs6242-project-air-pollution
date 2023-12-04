@@ -124,13 +124,13 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='df3' name='textscan.1pwwj460zwdna115j9fxq1pr81p9'>
-            <connection class='textscan' directory='C:/Users/baris/OneDrive/desktop/CSE 6242 Project' filename='df3.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='df3.csv' password='' server='' />
           </named-connection>
           <named-connection caption='CA' name='textscan.056ltll111462o1ga0n6v0sivb0n'>
-            <connection class='textscan' directory='C:/Users/baris/OneDrive/desktop/CSE 6242 Project' filename='CA.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='CA.csv' password='' server='' />
           </named-connection>
           <named-connection caption='CA_melt' name='textscan.1l45tjm0abjkp51esl6a11h0gndd'>
-            <connection class='textscan' directory='C:/Users/baris/OneDrive/desktop/CSE 6242 Project' filename='CA_melt.csv' password='' server='' />
+            <connection class='textscan' directory='.' filename='CA_melt.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1l45tjm0abjkp51esl6a11h0gndd' name='CA.csv' table='[CA#csv]' type='table'>
